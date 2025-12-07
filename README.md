@@ -14,7 +14,7 @@ The project includes:
 •	Category & return analysis
 
 **🛠️ Tech Stack:**
-•	SQL Server (T-SQL)
+•	SQL Server
 •	Joins, aggregations, window functions
 •	Date/time conversions
 •	Business logic implementation
