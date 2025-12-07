@@ -27,13 +27,13 @@ Transactions	Purchase and return transaction details
 Prod_cat_info	Product category & subcategory mapping
 
 **📌 Key Objectives:**
-1. Data Preparation & Understanding
+1. Data Preparation & Understanding:
 •	Count rows in all tables
 •	Identify return transactions
 •	Convert incorrectly formatted dates
 •	Calculate the time range of data (days, months, years)
 •	Find product category of given subcategory
-2. Data Analysis
+2. Data Analysis:
 •	Most used sales channel
 •	Gender distribution of customers
 •	City with maximum customers
