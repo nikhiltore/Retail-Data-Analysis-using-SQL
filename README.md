@@ -1,4 +1,4 @@
-📊**Retail Data Analysis – SQL** 
+📊**Retail Data Analysis – SQL:** 
 This project is a complete SQL-based retail analytics case study where customer, transaction, and product category data are analyzed to generate business insights. It demonstrates end-to-end SQL capabilities including data cleaning, date transformation, joins, aggregations, subqueries, and business-driven analysis.
 
 📁 **Project Overview:**
