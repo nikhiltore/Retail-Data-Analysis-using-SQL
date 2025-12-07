@@ -21,10 +21,9 @@ The project includes:
 
 **📂 Dataset Description:**
 The dataset consists of three relational tables:
-Table Name	Description
-Customer	Demographics like DOB, Gender, City
-Transactions	Purchase and return transaction details
-Prod_cat_info	Product category & subcategory mapping
+Customer -	Demographics like DOB, Gender, City
+Transactions -	Purchase and return transaction details
+Prod_cat_info -	Product category & subcategory mapping
 
 **📌 Key Objectives:**
 1. Data Preparation & Understanding:
